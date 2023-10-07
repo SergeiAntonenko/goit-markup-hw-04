@@ -144,6 +144,7 @@ img {
   background-size: cover;
   max-width: 1440px;
   background-repeat: no-repeat;
+  margin: 0 auto;
 }
 
 .order-container {
